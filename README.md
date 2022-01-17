@@ -5,8 +5,11 @@ This is a repository for to show the assignments given in Patika Rollic-oFON Gam
 ## Week 3 Assignment
 
 First week of Unity courses homework was an assignment to evaluate our Unity knowledge. I made a 3D Stack Runner.
+
 **Repository link:** [Unity Stack Runner Week 3 Assignment](https://github.com/ineventhorizon/unity-stack-runner) 
+
 **Rest of the images :** [Click Here](https://imgur.com/a/6Nooy8a)
+
 ![](https://i.imgur.com/zCXh4fd.png)
 
 
